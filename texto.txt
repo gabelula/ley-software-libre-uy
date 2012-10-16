@@ -1,0 +1,11 @@
+PROYECTO DE LEY
+
+Artículo 1º.- Los Poderes Ejecutivo, Legislativo y Judicial, los entes autónomos, los organismos descentralizados, las empresas donde el Estado posea mayoría accionaría, los Gobiernos Departamentales, las Juntas Departamentales, el Tribunal de lo Contencioso Administrativo (TCA), la Corte Electoral y los organismos de contralor del Estado; deberán distribuir toda información actualmente distribuida en formatos cerrados, también en, al menos, un formato abierto y estándar. Todo pedido de información deberá ser aceptado en al menos un formato abierto y estándar, sin perjuicio que se acepte además la misma información en un formato cerrado.
+
+Se dará preferencia en ambos casos a los formatos abiertos y estándar.
+
+Artículo 2º.- En las instituciones y dependencias del Estado mencionadas en el Artículo 1º, cuando se contraten licencias de software se dará preferencia a licenciamientos de software libre, frente a licenciamientos que permitan solo el uso o sean privativos de alguno de los permisos del software libre, en caso de que se opte por software privativo se deberá fundamentar la razón. El intercambio de información realizado con el Estado, a través de Internet, deberá ser posible en, al menos, un navegador de Internet licenciado como software libre.
+
+Artículo 3º.- Las instituciones educativas del Estado, deberán formar a sus educandos en la utilización de software libre además del software incluido en las propuestas programáticas actuales.
+
+Artículo 4º.- El Poder Ejecutivo reglamentará en un plazo de ciento ochenta días las condiciones, tiempos y formas en que se efectuará la transición de la situación actual a una que satisfaga las condiciones de la presente ley y orientará, en tal sentido, las licitaciones y contrataciones futuras de programas de computación (software) realizadas a cualquier título.
